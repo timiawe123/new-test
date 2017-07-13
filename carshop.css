@@ -1,0 +1,83 @@
+html
+{
+	background-color: black;
+}
+body
+{
+	font-family: sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+img
+{
+	width: 90%;
+	float: inline-block; margin-left: 50px;
+	height: 410px;
+	
+}
+
+section
+{
+	margin-left: 350px;
+	
+}
+h1
+{
+	text-align: center;
+	color: #ffd88e;
+	padding-top: 20px;
+	text-transform: uppercase;
+}
+h2
+{
+	color: red;
+	text-transform: uppercase;
+	
+}
+
+article
+{
+	text-align: justify;
+	padding: 17px;
+	padding-top: 5px;
+	background-color: white;
+}
+
+footer
+{
+	
+	text-align: center;
+	color: white;
+	font-size: 0.75em;
+	font-style: italic;
+	
+}
+
+ul
+{
+	list-style-type: none;
+}
+li
+{display: inline;}
+
+div
+{
+	background-color: red;
+	height: 30px;
+	list-style-type: none;
+	padding-bottom: 5px;
+}
+
+a:link, a:visited
+{
+
+	font-weight: bold;
+	color: white;
+	
+	
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 4px;
+	
+}
